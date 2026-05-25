@@ -8,13 +8,13 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya011006&label=Profile+Views&color=7c3aed&style=flat-square" />
   <img src="https://img.shields.io/github/followers/priya011006?style=flat-square&color=111827" />
   <img src="https://img.shields.io/github/stars/priya011006?style=flat-square&color=06b6d4" />
 </p>
 
-</div>
+</div> -->
 
 ---
 
