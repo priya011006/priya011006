@@ -1,51 +1,68 @@
 <div align="center">
 
-# ✨ Priya Patel
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:7c3aed,100:06b6d4&text=Priya%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Open%20Source&descAlignY=58"/>
 
-### 🚀 CS'27 | AI & Full Stack Developer | Open Source Contributor
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+projects+that+actually+solve+problems;Exploring+AI%2C+APIs+%26+Full+Stack+Development;Open+Source+Contributor+%F0%9F%9A%80;Learning+something+new+every+single+day"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+AI+%26+Web+Projects;Learning+LLMs+%26+Computer+Vision;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/priya011006?style=for-the-badge&color=111827&labelColor=7c3aed"/>
+  <img src="https://img.shields.io/github/stars/priya011006?style=for-the-badge&color=111827&labelColor=06b6d4"/>
+  <img src="https://komarev.com/ghpvc/?username=priya011006&style=for-the-badge&color=7c3aed"/>
+</p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🌌 About Me
 
-```python
-priya = {
-    "role": "CSE Student & Developer",
-    "college": "B.Tech CSE '27",
-    "interests": [
-        "Artificial Intelligence",
-        "Full Stack Development",
-        "Computer Vision",
-        "APIs & Open Source"
-    ],
-    "currently_learning": [
-        "LLMs",
-        "Backend Development",
-        "Advanced DSA"
-    ],
-    "languages": ["Python", "C++", "JavaScript"],
-    "fun_fact": "Turning coffee into projects since forever ☕"
+<div align="center">
+
+> “I enjoy building practical tech projects instead of letting tutorial playlists collect dust.”
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 👩‍💻 Developer Snapshot
+
+- 🎓 B.Tech CSE Student  
+- 🚀 Focused on AI + Full Stack Development  
+- 🧠 Exploring LLMs, APIs & Computer Vision  
+- 💻 Learning by building real-world projects  
+- 🌱 Currently improving DSA & Backend skills  
+
+</td>
+
+<td width="50%">
+
+```cpp
+while(!success){
+    learn();
+    build();
+    improve();
 }
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 🛠️ Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-111827?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
 
@@ -55,26 +72,34 @@ priya = {
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+<div align="center">
+
+| 💡 Project | 📖 Description | ⚙️ Tech |
 |---|---|---|
-| 🎯 GoalMatrix | Employee goal management system with role-based dashboards, tracking & approval workflow | React, Node.js, MongoDB |
-| 🎙️ AI Voice Agent | AI-powered text-to-speech web app using Murf API | Python, FastAPI, APIs |
-| ❤️ Heart Disease Risk Predictor | ML-based health prediction app using trained model | Python, Streamlit |
-| 🔔 Notify Chrome Extension | Productivity extension with AI summaries & quick actions | JavaScript, Chrome APIs |
-| 📋 Daily Dynamo | Full-stack productivity & task management application | JavaScript, FastAPI |
-| 🌐 API Learning 101 | REST API testing & Postman workflow contribution project | APIs, Postman, GitHub |
+| 🔗 [GoalMatrix](https://github.com/priya011006/GoalMatrix) | Employee goal management system with dashboards, tracking & approval workflows | React, Node.js, MongoDB |
+| 🔗 [AI Voice Agent](https://github.com/priya011006/AI-Voice-Agent) | AI-powered text-to-speech application using Murf API | Python, FastAPI |
+| 🔗 [Heart Disease Risk Predictor](https://github.com/priya011006/Heart-Disease-Risk-Predictor) | Machine learning app for heart disease prediction | Python, Streamlit |
+| 🔗 [Notify Chrome Extension](https://github.com/priya011006/Notify-Chrome-extension) | Productivity extension with summaries & quick tools | JavaScript, Chrome APIs |
+| 🔗 [Daily Dynamo](https://github.com/priya011006/Daily-dynamo) | Full-stack task & productivity management platform | JavaScript, FastAPI |
+| 🔗 [API Learning 101](https://github.com/priya011006/api-learning-101) | REST API testing contribution using Postman & GitHub | APIs, Postman |
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=priya011006&theme=tokyonight&hide_border=true&show_icons=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priya011006&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=priya011006&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=priya011006&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priya011006&theme=tokyonight&hide_border=true&layout=compact)
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya011006&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -82,11 +107,13 @@ priya = {
 
 # 🏆 Achievements
 
-- 🌟 Open Source Contributor
-- 🚀 Participated in Hackathons & Development Events
-- 💻 Built Multiple AI & Full Stack Projects
-- 📚 Consistently Learning DSA & Backend Development
-- 🔥 Active GitHub Contributor
+```text
+⭐ Open Source Contributor
+🚀 Built Multiple AI & Full Stack Projects
+💻 Active GitHub Contributor
+📚 Consistently Learning DSA & Backend Development
+🔥 Participating in Hackathons & Developer Communities
+```
 
 ---
 
@@ -94,7 +121,7 @@ priya = {
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=priya011006&theme=tokyo-night&hide_border=true)
+[![Priya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priya011006&theme=tokyo-night&hide_border=true)](https://github.com/priya011006)
 
 </div>
 
@@ -104,11 +131,17 @@ priya = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/priya-patel17/))
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/priya011006)
+<a href="https://github.com/priya011006">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail)](mailto:priya2005dec@gmail.com)
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
@@ -116,6 +149,6 @@ priya = {
 
 <div align="center">
 
-### ⭐ “Always learning, building, and improving.”
+### 💫 “Still learning. Still building. Still debugging things at 2 AM.”
 
 </div>
