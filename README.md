@@ -8,11 +8,11 @@
 
 <br><br>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya011006&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/priya011006?style=for-the-badge&color=111827" />
-  <img src="https://img.shields.io/github/stars/priya011006?style=for-the-badge&color=06b6d4" />
-</p> -->
+  <!-- <img src="https://img.shields.io/github/followers/priya011006?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/github/stars/priya011006?style=for-the-badge&color=06b6d4" /> -->
+</p>
 
 </div>
 
