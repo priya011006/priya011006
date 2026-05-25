@@ -6,13 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+projects+that+solve+real+problems;Exploring+AI%2C+Backend+%26+Computer+Vision;Learning+through+building+%F0%9F%9A%80;Open+Source+Contributor" />
 
-<br><br>
+<!-- <br><br> -->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya011006&label=Profile+Views&color=7c3aed&style=for-the-badge" />
   <!-- <img src="https://img.shields.io/github/followers/priya011006?style=for-the-badge&color=111827" />
   <img src="https://img.shields.io/github/stars/priya011006?style=for-the-badge&color=06b6d4" /> -->
-</p> -->
+<!--</p> -->
 
 </div>
 
