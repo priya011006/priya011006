@@ -1,32 +1,50 @@
 <div align="center">
 
-# PRIYA PATEL
-
-### AI • FULL STACK • OPEN SOURCE
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+projects+that+solve+real+problems;Exploring+AI%2C+Backend+%26+Computer+Vision;Open+Source+Contributor+%F0%9F%9A%80;Learning+something+new+every+day" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=PRIYA+PATEL;AI+%7C+FULL+STACK+%7C+OPEN+SOURCE" />
 
 <br>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priya011006&label=Profile+Views&color=7c3aed&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/priya011006?style=flat-square&color=111827" />
-  <img src="https://img.shields.io/github/stars/priya011006?style=flat-square&color=06b6d4" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+projects+that+solve+real+problems;Exploring+AI%2C+Backend+%26+Computer+Vision;Learning+through+building+%F0%9F%9A%80;Open+Source+Contributor" />
+
+<br><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priya011006&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/priya011006?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/github/stars/priya011006?style=for-the-badge&color=06b6d4" />
 </p>
 
-</div> -->
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🎓 B.Tech CSE Student passionate about AI & Full Stack Development  
-- 🚀 Building practical projects instead of endlessly watching tutorials  
-- 🧠 Exploring APIs, LLMs, Backend Development & Computer Vision  
-- 💻 Comfortable with Python, C++, JavaScript & modern web technologies  
-- 📚 Currently improving DSA, backend architecture & problem-solving  
-- 🌱 Open source contributor who enjoys learning through real projects  
-- ☕ Professional debugger of problems created by my own code  
+<div align="center">
+
+### *"I enjoy building practical tech projects instead of letting tutorial playlists collect dust."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+🎓 B.Tech CSE Student passionate about AI & Full Stack Development  
+
+🚀 Building real-world projects focused on solving practical problems  
+
+🧠 Exploring APIs, LLMs, Backend Systems & Computer Vision  
+
+💻 Comfortable with Python, C++, JavaScript & modern web technologies  
+
+📚 Currently improving DSA, backend architecture & problem-solving skills  
+
+🌱 Open source contributor learning through hands-on development  
+
+☕ Debugging code, fixing bugs, creating new bugs. The standard developer life cycle.  
+
+</div>
 
 ---
 
@@ -52,11 +70,11 @@
 
 | 💡 Project | 📖 Description | ⚙️ Tech |
 |---|---|---|
-| 🔗 [GoalMatrix](https://github.com/priya011006/GoalMatrix) | Employee goal management system with role-based dashboards, tracking & approval workflow | React, Node.js, MongoDB |
+| 🔗 [GoalMatrix](https://github.com/priya011006/GoalMatrix) | Employee goal management system with dashboards, progress tracking & approval workflow | React, Node.js, MongoDB |
+| 🔗 [Notify Chrome Extension](https://github.com/priya011006/Notify-Chrome-extension) | Productivity extension with AI summaries, quick tools & browser utilities | JavaScript, Chrome APIs |
+| 🔗 [Daily Dynamo](https://github.com/priya011006/Daily-dynamo) | Full-stack productivity & task management platform | JavaScript, FastAPI |
 | 🔗 [AI Voice Agent](https://github.com/priya011006/AI-Voice-Agent) | AI-powered text-to-speech application using Murf API | Python, FastAPI |
-| 🔗 [Heart Disease Risk Predictor](https://github.com/priya011006/Heart-Disease-Risk-Predictor) | ML-based application for predicting heart disease risk | Python, Streamlit |
-| 🔗 [Notify Chrome Extension](https://github.com/priya011006/Notify-Chrome-extension) | Productivity extension with AI summaries & quick actions | JavaScript, Chrome APIs |
-| 🔗 [Daily Dynamo](https://github.com/priya011006/Daily-dynamo) | Full-stack task & productivity management platform | JavaScript, FastAPI |
+| 🔗 [Heart Disease Risk Predictor](https://github.com/priya011006/Heart-Disease-Risk-Predictor) | ML-powered web application for predicting heart disease risk | Python, Streamlit |
 | 🔗 [API Learning 101](https://github.com/priya011006/api-learning-101) | REST API testing contribution using Postman & GitHub workflows | APIs, Postman |
 
 ---
@@ -83,19 +101,9 @@
 ⭐ Open Source Contributor
 🚀 Built Multiple AI & Full Stack Projects
 💻 Active GitHub Contributor
-📚 Consistently Learning DSA & Backend Development
+📚 Continuously Learning DSA & Backend Development
 🔥 Participating in Hackathons & Developer Communities
 ```
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Priya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priya011006&theme=tokyo-night&hide_border=true)](https://github.com/priya011006)
-
-</div>
 
 ---
 
@@ -103,7 +111,7 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/priya-patel17/">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -111,7 +119,7 @@
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:priya2005dec@gmail.com">
   <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -121,6 +129,6 @@
 
 <div align="center">
 
-### 💫 “Still learning. Still building. Still fixing bugs I created myself.”
+### 💜 Still learning. Still building. Still improving.
 
 </div>
